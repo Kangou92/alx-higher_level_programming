@@ -1,1 +1,1 @@
-# alx-higher_level_programming
+# alx-higher_level_programming is a repository that I've created for my learning at ALX Holberton SE Program. In this repository we have all the exercises and projects that had been given to me in concerns of my formation at ALX Holberton
