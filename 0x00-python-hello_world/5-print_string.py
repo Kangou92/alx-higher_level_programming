@@ -2,4 +2,4 @@
 str = "Holberton School"
 print(str*2, end="")
 print(str)
-print(str[0:10])
+print(str[:9])
